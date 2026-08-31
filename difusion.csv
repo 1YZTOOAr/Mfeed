@@ -159,6 +159,45 @@ SKAM,SD,SKAM,4896,http://skam-dash-movistarplus.emisiondof6.com/manifest.mpd
 M+ LALIGA HDR,HD,MLIGUH,5077,http://uhdlaliga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 M+ LALIGA 2 HDR,HD,MLIUHD,5474,http://hdr2liga-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
 Test UHD 1,4K,TESUHD,5057,http://1uhd-dash-movistarplus.emisiondof6.com/manifestuhd.mpd
+LA 2 (CAT),,LA2CAT,5592,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CAT),,LA1CAT,5591,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CANARIAS),,LA1CAN,5590,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (ANDALUCÍA),,LA1AND,5571,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+TPA,,TPA,5596,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Andalucía TV,,ANDATV,5598,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Ocho TV,,MEDITE,5600,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+La Otra,,OTRA,5601,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Iberalia TV,,IBERAL,5577,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Canal de las Estrellas,,GALAV,5572,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+TV Colombia,,COLOMB,5574,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Cubavisión,,CUBAV,5575,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+EWTN,,EWTN,5608,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+SX3,,C33,5602,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Esport 3,,ESP3,5605,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+3CatInfo,,3_24,5604,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Betevé,,BTV,5606,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (VALENCIA),,LA1VAL,5589,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Antena 3 (CANARIAS),,A3CAN,5594,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (PAÍS VASCO),,LA1PV,5581,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (GALICIA),,LA1GAL,5584,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Telecinco Canarias,,T5CAN,5595,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CASTILLA LA MANCHA),,LA1CM,5579,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (MADRID),,LA1MAD,5588,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 2 (CANARIAS),,LA2CAN,5593,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CASTILLA Y LEÓN),,LA1CL,5580,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (ARAGÓN),,LA1AR,5582,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (MURCIA),,LA1MUR,5569,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (EXTREMADURA),,LA1EXT,5583,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+33,,CAN33,5597,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Atlántico TV,,ATLAT,5603,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (ASTURIAS),,LA1AST,5570,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Playboy TV,,PBOY,5607,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+Telesur,,TLESUR,5576,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+etb2,,ETB2,5599,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (BALEARES),,LA1BAL,5568,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (CANTABRIA),,LA1CB,5578,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (LA RIOJA),,LA1LR,5587,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
+LA 1 (NAVARRA),,LA1NA,5586,http://canalesabr-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 20 SD_OTT,SD,P20OTT,5162,http://test20-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 21_SD_OTT,SD,P21OTT,5163,http://test21-dash-movistarplus.emisiondof6.com/manifest.mpd
 Pruebas 22_SD_OTT,SD,P22OTT,5164,https://test22-dash-movistarplus.emisiondof6.com/manifest.mpd
